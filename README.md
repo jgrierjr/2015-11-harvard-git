@@ -7,3 +7,5 @@ You can read up on.
 Link to the etherpad: http://pad.software-carpentry.org/2015-11/13-harvard.
 
 We will learn not to do this anymore.
+
+please write good commit messages
