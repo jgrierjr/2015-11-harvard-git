@@ -33,3 +33,7 @@ Make sure they begin and end with a new line
 2. item 2
 3. item 3
   1. idented number
+
+This is my comment on John's copy of the file.
+
+
