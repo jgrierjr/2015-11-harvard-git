@@ -23,8 +23,8 @@ git will help you version control so you really do end up with 1 final doc.
 Make sure they begin and end with a new line
 
 - bullet 1
-- - bullet 2
--   - bullet 3
+-- bullet 2
+--- bullet 3
 
 1. item 1
 2. another item
